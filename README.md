@@ -16,4 +16,7 @@
 - aadakouda
 - aadakouda
 
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees 
+DEveloped objective strategy for discovering optimal EEG bands based on signal power spectra using -----
 
